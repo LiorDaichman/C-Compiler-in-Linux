@@ -1,6 +1,6 @@
 # C Language Compiler in Linux
 
-This project is a basic compiler written in C for Linux. It consists of a scanner (scanner.l) and a parser (Parser.y) which are built using Lex and Yacc respectively. A shell script (run_compiler.sh) automates the compilation and execution process.
+This project is a compiler written in C for Linux. It consists of a scanner (scanner.l) and a parser (Parser.y) which are built using Lex and Yacc respectively. A shell script (run_compiler.sh) automates the compilation and execution process.
 
 ### ⭐ Files:
 
