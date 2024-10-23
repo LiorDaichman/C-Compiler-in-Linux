@@ -22,7 +22,7 @@ This project is a basic compiler written in C for Linux. It consists of a scanne
 
 3. GCC: The GNU Compiler Collection, used to compile the generated C files.
 
-Make sure you have these tools installed on your Linux system.
+###### Make sure you have these tools installed on your Linux system.
 
 ### ⭐ To run the compiler, follow these steps:
 
