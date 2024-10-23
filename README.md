@@ -26,8 +26,8 @@ Make sure you have these tools installed on your Linux system.
 
 ### ⭐ To run the compiler, follow these steps:
 
-1. git clone https://github.com/LiorDaichman/Compiler-in-C-Lagunage-Linux
+1. git clone https://github.com/LiorDaichman/C-Compiler-in-Linux
 
-2. cd Compiler-in-C-Lagunage-Linux
+2. cd C-Compiler-in-Linux
 
 3. Run the script with an input file: ./run_compiler.sh input_file.txt
