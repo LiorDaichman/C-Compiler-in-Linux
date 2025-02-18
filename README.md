@@ -31,3 +31,9 @@ This project is a compiler written in C for Linux. It consists of a scanner (sca
 2. cd C-Compiler-in-Linux
 
 3. Run the script with an input file: ./run_compiler.sh input_file.txt
+
+## 📝 License
+This project is licensed under the **MIT License**.
+
+## 📩 Contact
+For any questions or suggestions, reach out via **liordaichman@gmail.com** or open an issue on GitHub.
